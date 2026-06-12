@@ -56,10 +56,6 @@
   <img src="https://streak-stats.demolab.com/?user=Yasin4261&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yasin4261&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
 ---
 
 ### 🌐 Connect with Me
