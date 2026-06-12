@@ -68,7 +68,7 @@
   <a href="https://www.upwork.com/freelancers/~017c706106c7bd8606" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
-  <a href="https://www.linkedin.com/in/yasin-güneş-3864631b5/" target="_blank">
+  <a href="https://www.linkedin.com/in/yasin-g%C3%BCne%C5%9F-3864631b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yasin01ysn" target="_blank">
